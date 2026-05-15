@@ -4,5 +4,6 @@ RESOLUSI ARIF
   * belajar FE
   * belajar BE
   * belajar DB
+  * memakai bahasa JS dan Java
 - Jadi Penetration Testing
 - Jadi QA Automation
