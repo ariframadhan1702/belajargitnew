@@ -6,7 +6,7 @@ RESOLUSI ARIF
   * belajar BE
     ^ Node JS
   * belajar DB 
-    ^ My SQL
+    ^ My SQL dan Mongo DB
   * memakai bahasa JS dan Java
 - Jadi Penetration Testing
 - Jadi QA Automation
