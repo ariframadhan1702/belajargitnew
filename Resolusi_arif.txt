@@ -2,8 +2,11 @@ RESOLUSI ARIF
 - Menjadi programmer
 - Jadi Fullstack
   * belajar FE
+    ^ Vanilla JS
   * belajar BE
-  * belajar DB
+    ^ Node JS
+  * belajar DB 
+    ^ My SQL
   * memakai bahasa JS dan Java
 - Jadi Penetration Testing
 - Jadi QA Automation
